@@ -20,7 +20,7 @@ We believe the best way to learn is together. Whether it's sharing knowledge, tr
 ## Our Current Projects 📚
 
 ### 🏠 [Smarter Home](https://github.com/cg-homelab/smarter-home)
-**Apps and services related to smart home** | *TypeScript*
+**Apps and services related to smart home** | *TypeScript*, *Rust* and *Tauri*
 > Our flagship smart home automation project that brings intelligence to everyday living
 
 ### 🖥️ [Martin's Homelab](https://github.com/cg-homelab/martin-homelab) 
@@ -35,17 +35,14 @@ We believe the best way to learn is together. Whether it's sharing knowledge, tr
 languages:
   - TypeScript/JavaScript
   - Python
-  - Go
+  - Rust
   
 infrastructure:
   - Docker & Docker Compose
   - Kubernetes
-  - Home Assistant
-  - Raspberry Pi
+  - Home Automation
   
 cloud_platforms:
-  - AWS
-  - Azure
   - Self-hosted solutions
 ```
 
@@ -58,10 +55,10 @@ We're always excited to connect with fellow homelab enthusiasts! Here's how you 
 - **🔀 Contribute**: Want to contribute code? Check out our repositories and see where you can help
 - **💬 Discuss**: Join our conversations in issues and pull requests
 
-## Fun Facts About Us 📊
+## Fun Facts 📊
 
 - 🌟 **3** repositories and counting
-- 🔧 Languages: TypeScript, Docker, and more
+- 🔧 Languages: TypeScript, Docker, Rust, and more
 - 🏠 Focus: Making homes smarter, one commit at a time
 - 🎯 Mission: Learning, building, and having fun with technology
 
@@ -75,7 +72,7 @@ We're always excited to connect with fellow homelab enthusiasts! Here's how you 
 
 <div align="center">
 
-**Built with ❤️ by friends who love technology**
+**Built by friends who like nerding out**
 
 *"The best way to predict the future is to build it"* - Together 🚀
 
