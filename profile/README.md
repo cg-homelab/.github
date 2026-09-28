@@ -1,83 +1,32 @@
 # CG Homelab 🏠⚡
 
-## Hey there, welcome to our digital playground! 👋
+![Homelab](https://img.shields.io/badge/Homelab-Enthusiasts-blue?style=for-the-badge&logo=raspberry-pi)
 
-We're a group of friends who love tinkering with technology, building cool homelab projects, and experimenting with everything from smart home automation to infrastructure projects. Think of us as your friendly neighborhood tech enthusiasts who happen to share our adventures on GitHub!
+A few friends who build homelab infrastructure, smart-home services and developer tooling, and publish the results here.
 
-![Homelab Banner](https://img.shields.io/badge/Homelab-Enthusiasts-blue?style=for-the-badge&logo=raspberry-pi)
+## 🚀 Projects
 
-## What We're All About 🚀
+### [smarter-home](https://github.com/cg-homelab/smarter-home)
 
-### 🏡 Smart Home & Automation
-We're passionate about making our homes smarter, more efficient, and frankly, just cooler. From automated lighting systems to intelligent climate control, we're always exploring new ways to integrate technology into daily life.
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=postgresql&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🔧 Infrastructure & DevOps
-Because someone has to keep the servers running! We love diving into containerization, orchestration, monitoring, and all the behind-the-scenes magic that makes modern applications tick.
+Energy monitoring and analytics for the home: a Rust/Axum REST API, a Next.js dashboard, and TimescaleDB for time-series storage, deployed with Docker Compose.
 
-### 🤝 Collaborative Learning
-We believe the best way to learn is together. Whether it's sharing knowledge, troubleshooting problems, or celebrating wins, we're all about that community spirit.
+### [ConversionTUI](https://github.com/cg-homelab/ConversionTUI)
 
-## Our Current Projects 📚
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 🏠 [Smarter Home](https://github.com/cg-homelab/smarter-home)
-**Apps and services related to smart home** | *TypeScript*, *Rust* and *Tauri*
-> Our flagship smart home automation project that brings intelligence to everyday living
+`convtui` — a terminal UI for converting files one at a time or a folder at a time. Three-pane dashboard and single-key actions in the style of `lazygit`, converting documents and data files to Markdown via MarkItDown.
 
-### 🖥️ [Martin's Homelab](https://github.com/cg-homelab/martin-homelab) 
-**Compose Infrastructure** | *Docker Compose*
-> A containerized homelab setup that showcases modern infrastructure practices
+Also in the org: [martin-homelab](https://github.com/cg-homelab/martin-homelab) (Compose stacks and Ansible for the lab itself) and [advent-of-code-template](https://github.com/cg-homelab/advent-of-code-template) — browse [all repositories](https://github.com/orgs/cg-homelab/repositories).
 
-*More exciting projects coming soon!*
+## 🧪 In design
 
-## Tech We Love ❤️
+[auto-labber](https://github.com/cg-homelab/auto-labber) (opinionated homelab orchestrator) and [truenas-apps-orchestrator](https://github.com/cg-homelab/truenas-apps-orchestrator) (git-driven app orchestration for TrueNAS) are at the design stage — specs and docs live in the repos, implementation has not started.
 
-```yaml
-languages:
-  - TypeScript/JavaScript
-  - Python
-  - Rust
-  
-infrastructure:
-  - Docker & Docker Compose
-  - Kubernetes
-  - Home Automation
-  
-cloud_platforms:
-  - Self-hosted solutions
-```
+## 🤝 Contributing
 
-## Want to Join the Fun? 🎉
-
-We're always excited to connect with fellow homelab enthusiasts! Here's how you can get involved:
-
-- **💡 Share Ideas**: Found a cool project or technology? We'd love to hear about it!
-- **🐛 Report Issues**: Spot something that needs fixing? Open an issue and help us improve
-- **🔀 Contribute**: Want to contribute code? Check out our repositories and see where you can help
-- **💬 Discuss**: Join our conversations in issues and pull requests
-
-## Fun Facts 📊
-
-- 🌟 **3** repositories and counting
-- 🔧 Languages: TypeScript, Docker, Rust, and more
-- 🏠 Focus: Making homes smarter, one commit at a time
-- 🎯 Mission: Learning, building, and having fun with technology
-
-## Connect With Us 🌐
-
-- Browse our [repositories](https://github.com/orgs/cg-homelab/repositories) to see what we're working on
-- Check out our [projects](https://github.com/orgs/cg-homelab/projects) to see our roadmaps
-- Star ⭐ projects you find interesting!
-
----
-
-<div align="center">
-
-**Built by friends who like nerding out**
-
-*"The best way to predict the future is to build it"* - Together 🚀
-
-</div>
-
----
-
-<sub>💡 Pro tip: You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) too!</sub>
+Issues and pull requests are welcome on any repository; each one carries its own contributing guide and license.
