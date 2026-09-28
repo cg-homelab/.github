@@ -21,7 +21,7 @@ Energy monitoring and analytics for the home: a Rust/Axum REST API, a Next.js da
 
 `convtui` — a terminal UI for converting files one at a time or a folder at a time. Three-pane dashboard and single-key actions in the style of `lazygit`, converting documents and data files to Markdown via MarkItDown.
 
-Also in the org: [martin-homelab](https://github.com/cg-homelab/martin-homelab) (Compose stacks and Ansible for the lab itself), [GitHub-profile-stats](https://github.com/cg-homelab/GitHub-profile-stats) (stat cards for your README, running at [ghstats.dev](https://ghstats.dev/)) and [advent-of-code-template](https://github.com/cg-homelab/advent-of-code-template) — browse [all repositories](https://github.com/orgs/cg-homelab/repositories).
+Also in the org: [martin-homelab](https://github.com/cg-homelab/martin-homelab) (Compose stacks and Ansible for the lab itself) and [advent-of-code-template](https://github.com/cg-homelab/advent-of-code-template) — browse [all repositories](https://github.com/orgs/cg-homelab/repositories).
 
 ## 🧪 In design
 
